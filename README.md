@@ -29,9 +29,4 @@ To run it on Windows, you will have to use [cygwin](https://www.cygwin.com/).
 | Semantic Analysis |Creates an Abstract Syntax Tree for the coresponding Parse Tree and populates the Symbol Table. If an error is encountered during Semantic Analysis, the compiler does not proceed to code generation |
 | Code generation | Generates corresponding assembly-level code. As per the project requirements, code generation is restricted to only those testcases which have a single function (main) and handle only integers.|
 
-## Contributors
-The team members of this project were:
-* [Aashish Singh](https://github.com/Aashish683)
-* Gunraj Singh
-* Venkat Reddy
-* [Arnav Sailesh](https://github.com/ArnavS11)
+
